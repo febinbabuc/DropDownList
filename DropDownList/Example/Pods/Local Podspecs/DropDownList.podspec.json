@@ -1,0 +1,22 @@
+{
+  "name": "DropDownList",
+  "version": "0.1.0",
+  "summary": "A short description of DropDownList.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/DRirefcase iOS Developer/DropDownList",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "DRirefcase iOS Developer": "febin.babu@driefcase.com"
+  },
+  "source": {
+    "git": "https://github.com/DRirefcase iOS Developer/DropDownList.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "DropDownList/Classes/**/*"
+}

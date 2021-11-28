@@ -1,0 +1,16 @@
+PODS:
+  - DropDownList (0.1.0)
+
+DEPENDENCIES:
+  - DropDownList (from `../`)
+
+EXTERNAL SOURCES:
+  DropDownList:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DropDownList: 8570f248c781a3cdda07f25465617fe302180360
+
+PODFILE CHECKSUM: 94aefc751efecff5e2c9e226ea4bd7fc255d83c6
+
+COCOAPODS: 1.11.2
